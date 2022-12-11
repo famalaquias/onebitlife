@@ -30,16 +30,6 @@ O aplicativo OneBitLife tem como objetivo fazer um gerenciamento de tarefas, que
 - SQLite
 - Android Studio
 
-<div align="center"> 
-<img align="left" alt="NodeJs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="left" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="left" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-<img align="left" alt="SQLite" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-  
-<img align="left" alt="SQLite" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">  
-</div>
-
-
 
 ## :female_detective: Instruções de Instalação e Execução
 
