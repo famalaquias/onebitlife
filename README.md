@@ -40,6 +40,7 @@ O aplicativo OneBitLife tem como objetivo fazer um gerenciamento de tarefas, que
 </div>
 
 
+
 ## :female_detective: Instruções de Instalação e Execução
 
 Esse projeto foi desenvolvido em ambiente Linux, utilizando o Ubuntu 22 e as tecnologias citadas anteriormente. Utilizamos o Expo, como fremework do React Native e o Visual Studio Code como editor de códigos no desenvolvimento. Para fazer a pré-visualização do projeto, utilizamos o Android Studio. Caso você utilize outro sistema operacional, a configuração inicial do projeto pode ser um pouco diferente.
