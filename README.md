@@ -24,7 +24,7 @@ O aplicativo OneBitLife tem como objetivo fazer um gerenciamento de tarefas, que
 
 ## :hammer_and_wrench: Ferramentas Utilizadas
 
-- Node.js <img align="left" alt="NodeJs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+- Node.js 
 - JavaScript
 - React
 - SQLite
@@ -38,3 +38,9 @@ O aplicativo OneBitLife tem como objetivo fazer um gerenciamento de tarefas, que
   
 <img align="left" alt="SQLite" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">  
 </div>
+
+
+## :female_detective: Instruções de Instalação e Execução
+
+Esse projeto foi desenvolvido em ambiente Linux, utilizando o Ubuntu 22 e as tecnologias citadas anteriormente. Utilizamos o Expo, como fremework do React Native e o Visual Studio Code como editor de códigos no desenvolvimento. Para fazer a pré-visualização do projeto, utilizamos o Android Studio. Caso você utilize outro sistema operacional, a configuração inicial do projeto pode ser um pouco diferente.
+
