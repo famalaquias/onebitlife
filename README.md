@@ -24,6 +24,12 @@ O aplicativo OneBitLife tem como objetivo fazer um gerenciamento de tarefas, que
 
 ## :hammer_and_wrench: Ferramentas Utilizadas
 
+- Node.js
+- JavaScript
+- React
+- SQLite
+- Android Studio
+
 <div align="center"> 
 <img align="left" alt="NodeJs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
