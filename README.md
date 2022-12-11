@@ -1,4 +1,4 @@
-# 🤖 OneBitLife 🤖
+# OneBitLife 🤖
 
 ![204116603-3c3297be-95b9-479c-9964-2b52ec186a01](https://user-images.githubusercontent.com/98343640/206881412-328cde29-59fa-4d75-a4d8-0c1390c9c13c.png)
 
@@ -24,7 +24,7 @@ O aplicativo OneBitLife tem como objetivo fazer um gerenciamento de tarefas, que
 
 ## :hammer_and_wrench: Ferramentas Utilizadas
 
-- Node.js
+- Node.js <img align="left" alt="NodeJs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 - JavaScript
 - React
 - SQLite
